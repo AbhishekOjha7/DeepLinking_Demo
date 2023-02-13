@@ -75,7 +75,7 @@ export default function LinkingScreen({}) {
           paddingVertical: 5,
           borderRadius: 5,
         }}
-        onPress={() => Linking.openURL('https://reactnative.dev/')}>
+        onPress={() => Linking.openURL('https://abhishekojha7.github.io')}>
         <Text
           style={{
             fontSize: 30,
