@@ -2,7 +2,7 @@
   "name": "DeepLinking_Demo",
   "version": "0.0.1",
   "private": true,
-  "homepage": "http://{AbhishekOjha7}.github.io/{repo-name}",
+  "homepage": "http://{AbhishekOjha7}.github.io/{DeepLinking_Demo}",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
