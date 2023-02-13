@@ -2,7 +2,7 @@
   "name": "DeepLinking_Demo",
   "version": "0.0.1",
   "private": true,
-  "homepage": "http://{AbhishekOjha7}.github.io/{DeepLinking_Demo}",
+  "homepage": "https://{AbhishekOjha7}.github.io/{DeepLinking_Demo}",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -10,8 +10,7 @@
     "start": "react-native start",
     "test": "jest",
     "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
-    "build":"react-native scripts build"
+    "deploy" : "gh-pages -d build"
   },
   "dependencies": {
     "@react-navigation/native": "^6.1.3",
