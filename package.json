@@ -10,7 +10,8 @@
     "start": "react-native start",
     "test": "jest",
     "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "deploy" : "gh-pages -d build",
+    "build": "react-native run-ios --configuration Release"
   },
   "dependencies": {
     "@react-navigation/native": "^6.1.3",
